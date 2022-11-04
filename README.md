@@ -1,1 +1,1 @@
-# Projeto LabeFood
+# Projeto em grupo - LabeFood
